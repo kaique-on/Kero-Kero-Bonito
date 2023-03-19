@@ -1,0 +1,65 @@
+#caixaTexto {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.sobreBanda {
+    display: flex;
+    justify-content: center;
+    font-family: Arial;
+    margin: 40px 0px 30px 0px;
+    padding-right: 200px;
+    height: 500px;
+    gap: 40px;
+}
+
+#tituloTexto1 {
+    font-size: 50px;
+    font-family: 'Lemon/Milk';
+    color: #f044a4;
+}
+
+.textoBanda {
+    font-size: 20px;
+    width: 900px;
+}
+
+.imgPrincipal {
+    width: 200px;
+    height: auto;
+    margin: auto;
+}
+
+hr {
+    margin-left: 80px;
+    margin-right: 125px;
+    height: 1px;
+    background-color: #f044a4;
+    border: none;
+    opacity: 50%;
+}
+
+.secaoImagens {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 40px;
+}
+.secaoImagens_imagem{
+    width: 200px;
+    height: 100px;
+    align-items: center;
+    padding-bottom: 160px;
+}
+
+.infoAlbuns {
+    width: 300px;
+    font-family: Arial;
+    font-size: 16px;
+}
+
+.linksAlbuns {
+    text-decoration: none;
+    color: black;
+}

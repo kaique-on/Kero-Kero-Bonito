@@ -1,0 +1,42 @@
+/* confurações do menu de navegação */
+#nav_pg3 {
+    width: 100%;
+    height: 125px;
+    background-color:#802781;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+/* configuração da imagem */
+#logo {
+    margin-left: 24px;
+    width: 258px;
+    height: 100px;
+}
+
+ul {
+    font-size: 24px;
+    display: flex;
+    list-style: none;
+    gap: 24px;
+    margin-right: 48px;
+    font-family: 'Lemon/Milk';
+    
+}
+
+.linksNav_pg3 {
+    
+    text-decoration: none;
+    color: #f0f5fc;
+}
+
+.listaTopo_pg3 {
+    padding: 8px;
+}
+
+.listaTopo_pg3:hover {
+    background-color: #3d2450;
+    color: #f0f5fc;
+    border-radius: 8px;
+}

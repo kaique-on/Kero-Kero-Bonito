@@ -1,0 +1,32 @@
+@import "styleHome.css";
+@import "styleSobre.css";
+@import "styleIntroBonito.css";
+@import "styleBonitoGeneration.css";
+@import "styleTime'n'Place.css";
+@import "styleCivilisation.css";
+@import "nav.css";
+@import "nav_pg2.css";
+@import "nav_pg3.css";
+@import "nav_pg4.css";
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    width: 100%;
+}
+
+main {
+    margin-bottom: 40px;
+}
+
+#mainPaginas {
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+
+a {
+    text-decoration-color: black;
+}

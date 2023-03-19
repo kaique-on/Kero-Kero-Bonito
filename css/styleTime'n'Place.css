@@ -1,0 +1,77 @@
+#fundoDegrade {
+    background-image: linear-gradient(to right, grey, #a732a9, #64cc94, #1b2290, #452850);
+}
+
+.pg3_listinha {
+    font-family: Arial;
+    font-size: 23px;
+    margin: 15px 0;
+    color: #f0f5fc;
+}
+
+.timenplaceLink {
+    text-decoration-color: #f0f5fc;
+}
+
+.pg3_musicas {
+    padding-right: 80px;
+    width: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
+}
+
+.pg3_tituloTexto3 {
+    font-size: 50px;
+    font-family: 'Lemon/Milk';
+    color: #f0f5fc;
+    margin-bottom: 35px;
+    border-bottom: 3px solid #f0f5fc;
+    width: fit-content;
+}
+
+#pg3_principal {
+    display: flex;
+    margin: auto auto auto 120px;
+    justify-content: center;
+}
+
+#pg3_sobreAlbum {
+    border-left: 1px solid #ffffff;
+    padding-left: 100px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#pg3_imagemAlbum {
+    height: 350px;
+    width: 350px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+#pg3_textoSobreAlbum {
+    width: 550px;
+    font-family: Arial;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    font-size: 21px;
+    margin-top: 26px;
+    color: #f0f5fc;
+}
+
+#pg3_imagemDecorativa {
+    height: 325px;
+    margin-top: 50px;
+    margin-bottom: 20px;
+    margin-left: -30px;
+    
+}
+
+#pg3_encaixarImagem {
+    display: flex;
+    justify-content: center;
+}

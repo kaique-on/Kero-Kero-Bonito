@@ -1,0 +1,62 @@
+.listinha {
+    font-family: Arial;
+    font-size: 23px;
+    margin: 15px 0;
+    color: black;
+}
+
+.musicas {
+    padding-right: 150px;
+    width: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
+}
+
+.tituloTexto3 {
+    font-size: 50px;
+    font-family: 'Lemon/Milk';
+    color: #f044a4;
+    margin-bottom: 35px;
+    border-bottom: 3px solid #f044a4;
+    width: fit-content;
+}
+
+#principal {
+    display: flex;
+    margin: auto auto auto 120px;
+    justify-content: center;
+}
+
+#sobreAlbum {
+    border-left: 3px solid #fca2d2;
+    padding-left: 100px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#imagemAlbum {
+    height: 350px;
+    width: 350px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+#textoSobreAlbum {
+    width: 550px;
+    font-family: Arial;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    font-size: 21px;
+    margin-top: 26px;
+}
+
+#imagemDecorativa {
+    height: 250px;
+    margin-top: 40px;
+    margin-bottom: 20px;
+    margin-left: -35px;
+}
